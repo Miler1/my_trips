@@ -2,20 +2,17 @@
 
 > MDB Admin Dashboard
 
-## Build Setup
+## Projeto
+As seguintes pastas são front-end e back-end
+
+## Front-end
 
 ``` bash
-# install dependencies
+# será necessário instalar as dependencias com o comando
 npm install
+# em seguida executar o comando 
+npm start
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Back-end 
+Para executar basta abrir o projeto no visual studio de preferencia versão 2019 pois a versão do core .NET é a 2.2.300 mais atual.
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

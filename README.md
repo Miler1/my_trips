@@ -9,7 +9,6 @@ As seguintes pastas do projeto são: "front-end" e "back-end"
 
 Foi utilizado o framework Vuejs e o template usado para criação
 da página foi o Admin-Dash-Board com Material Design e Bootstrap
-link da página: https://mdbootstrap.com/previews/free-templates/vue-admin-dashboard/#/dashboard
 antes de executar o projeto será necessário instalar as dependencias com o comando
 npm install
 após a instalação das dependencias basta executar o comando 

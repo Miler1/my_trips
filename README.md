@@ -14,5 +14,6 @@ npm install
 npm start
 
 ## Back-end 
-Para executar basta abrir o projeto no visual studio de preferencia versão 2019 pois a versão do core .NET é a 2.2.300 mais atual.
+Para executar basta somente abrir o projeto no visual studio versão 2019 
+pois foi a versão utilizada com o core .NET 2.2.300.
 
